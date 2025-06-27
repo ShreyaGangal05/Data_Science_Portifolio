@@ -1,1 +1,1 @@
-# Football_insights
+This respiratory contains a collection of my data science and analytics projects completed using tools such as Excel, SQL, Python, Tableau and Machine Learning. Each project focuses on solving real-world problems through data analysis, visualization, and predictive modeling.
